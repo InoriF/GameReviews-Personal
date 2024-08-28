@@ -109,7 +109,7 @@
 | Baldur's Gate 3                           | 博德之门3                     | 重量级，但是真的很挑人，游戏各个方面都能看出用心细细打磨了。算是被铺天盖地好评裹挟着玩了上百小时，只能说勉强通关了一周目，最后只能感叹DND确实不是我的菜          | PC       |
 | Assassin's Creed Syndicate                | 刺客信条：枭雄                   | 我的体验是比后面几部曲工业罐头更好的                                                                     | PC       |
 | Pro Evolution Soccer 2013                 | 实况足球2013                  | 以前的足球游戏AI很菜，最爱中圈吊射了，现在AI太猛了，永远做不到咯                                                     | PSP      |
-| The King of Fighters '97                  | 拳皇'97                     | 最经典的一袋拳皇，如果我白合折接屑风接重爪接葵花三式接八稚女，你该如何应对                                                  | Arcade   |
+| The King of Fighters '97                  | 拳皇'97                     | 最经典的一代拳皇，如果我白合折接屑风接重爪接葵花三式接八稚女，你该如何应对                                                  | Arcade   |
 | Metal Slug Advance                        | 合金弹头Advance               | 战争版魂斗罗，爽玩                                                                              | GBA      |
 | Kartrider                                 | 跑跑卡丁车                     | 能考过初版驾照足以说明爷技术的含金量                                                                     | PC       |
 | KanColle - Fleet Girls Collection         | 舰队collection              | 玩了好多年的页游，懂不懂舰like的祖宗啊。但是后来活动打甲越来越吃屎，立绘也越来越不上心，跟不上时代。唉，jp人，田中飞妈                         | PC页游     |
