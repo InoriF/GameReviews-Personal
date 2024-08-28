@@ -71,7 +71,7 @@
 | Dyson Sphere Program                      | 戴森球计划                     | 发售一周玩了100小时，然后两年再也没打开过，实在是太累人了                                                         | PC       |
 | Gods Eater Burst                          | 噬神者：爆裂                    | 二次元小怪猎，好玩是好玩的，剧情也很不错，换皮怪实在太多了                                                          | PSP      |
 | God Eater Resurrection                    | 噬神者：解放重生                  | 应该是上一个的高清重制版吧，放一起了。本体只有英文但有大佬做了全套日语中字。时隔十年再通了一次，还是挺不错的                                 | PC       |
-| SD GUNDAM G Generation Overworld          | SD高达G世纪：超越世界              | 高达战旗，粉丝向作品，还原原作剧情关键节点也可以                                                               | PSP      |
+| SD GUNDAM G Generation Overworld          | SD高达G世纪：超越世界              | 高达战棋，粉丝向作品，还原原作剧情关键节点也可以                                                               | PSP      |
 | SD Gundam G Generation Cross Rays         | SD高达G世纪：火线纵横              | 上一个的同系列作品，只是N年过去也没啥变化                                                                  | PC       |
 | World of Warcraft                         | 魔兽世界                      | 仍是我心目中最好的网游，可能永远也不会被超过，如果6.0之前关服我愿给10分，但可惜我是到9.0都还在继续赤石的，含泪扣分了                         | PC网游     |
 | Pokémon FireRed&LeafGreen                 | 精灵宝可梦火红&叶绿                | 也非常好，但毕竟是复刻，三世代永远的神还得是宝石版                                                              | GBA      |
