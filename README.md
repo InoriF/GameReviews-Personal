@@ -129,6 +129,7 @@
 | Eiyuu Densetsu：Ao no Kiseki               | 英雄传说：碧之轨迹                 | 缇欧是真可爱啊，阿瑞安赫德是真帅啊                                                                      | PSP      |
 | Left 4 Dead 2                             | 求生之路2                     | 玩求生之路2不打各种人物mod也是神人了，缺憾就是还是和四个兄弟玩好玩                                                    | PC       |
 | Tilt to Live2                             | 重力存亡2                     | 也挺好玩的，但比起前作没有太大突破，缺少新意                                                                 | IOS      |
+| Elden Ring Shadow of the Erdtree          | 艾尔登法环dlc黄金树幽影           | 这dlc跟原版没有任何可比性，全是粪怪。给我唯一惊叹的地方只有物种保藏库的顶级地图设计了。IGN能打出10分也是神人了                            | PC      |
 | Super Mario World 2: Yoshi's Island       | 超级马里奥：耀西岛                 | 骑着小龙跟着一堆蛋蛋印象很深，跳跃攻击音效很魔性                                                               | GBA      |
 | Another Adventure                         | 没有人知道的大冒险                 | 很有黑色幽默的视觉小说                                                                            | PC       |
 | Warriors Orochi 2                         | 无双大蛇2：魔王再临                | 无双割草还是爽的，女角色烧鸡程度绝对是遥遥领先于时代                                                             | PSP      |
